@@ -1,0 +1,9 @@
+# Clone repo
+git clone https://github.com/<username>/Advanced-Firewall.git
+cd Advanced-Firewall
+
+# Run firewall test
+python src/firewall.py
+
+# Run unit tests
+python -m unittest tests/test_firewall.py
