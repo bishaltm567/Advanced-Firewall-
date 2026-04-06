@@ -1,0 +1,14 @@
+Advanced-Firewall/
+│── src/
+│   ├── firewall.py
+│   ├── logger.py
+│   ├── alert.py
+│   └── rules.json
+│
+│── tests/
+│   └── test_firewall.py
+│
+│── README.md
+│── LICENSE
+│── .gitignore
+│── requirements.txt
